@@ -17,5 +17,11 @@ permalink: /publications/
 {% endfor %}
 -->
 
-### [Understanding Safety Risks and Safety Design in Social VR Environments](https://dl.acm.org/doi/abs/10.1145/3579630)
-*Venue: ACM CSCW 2023, Date: 2023/4/16*  
+- ### [Understanding Safety Risks and Safety Design in Social VR Environments](https://dl.acm.org/doi/abs/10.1145/3579630)
+  *ACM CSCW 2023*  
+
+- ### [Modeling and simulation for the spread of Covid-19 in an Indian city: A case study](https://ieeexplore.ieee.org/abstract/document/10015485)
+  *Winter Simulation Conference 2022*
+
+- ### [Video Pre-trained Transformer: A Multimodal Mixture of Pre-trained Experts](https://arxiv.org/abs/2304.10505)
+  *arXiv preprint 2023*  
