@@ -16,8 +16,6 @@ permalink: /publications/
   {% include archive-single.html %}
 {% endfor %}
 -->
-## Publications
 
-### [Understanding Safety Risks and Safety Design in Social VR Environments](/publication/2009-10-01-paper-title-number-1)
+### [Understanding Safety Risks and Safety Design in Social VR Environments](https://dl.acm.org/doi/abs/10.1145/3579630)
 *Venue: ACM CSCW 2023, Date: 2023/4/16*  
-[Download paper](https://dl.acm.org/doi/abs/10.1145/3579630)
