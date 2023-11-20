@@ -1,10 +1,9 @@
-<!-- This is a comment and won't appear in the rendered output 
-
 ---
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+---
+<!-- This is a comment and won't appear in the rendered output author_profile: true
 ---
 
 {% if author.googlescholar %}
