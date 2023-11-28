@@ -17,6 +17,7 @@ redirect_from:
 ## Introduction
 I am Rohan Charudatt Salvi, an aspiring NLP researcher and a recent master's graduate from the University of Illinois Urbana-Champaign. My passion for Natural Language Processing (NLP) drives my research and professional pursuits. Equipped with a strong foundation in programming languages such as Python, R, C++, and topics such as Data Structures and Algorithms. I have also developed a growing skillset in fields including Natural Language Processing, Deep Learning, and Computer Vision.
 
+![Illustration of using NLP to understand society and evaluate biases in it](/images/robot_society.png){: .align-right width="300px"}
 ## Personal & Professional Mission 🌐
 
 My career trajectory is firmly anchored in advancing the field of NLP. I want to pursue a Ph.D. program, to create NLP-based tools that not only advance scientific understanding but also have tangible impacts on society. My three primary research interests in NLP are:
