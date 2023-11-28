@@ -31,18 +31,11 @@ I’m always eager to connect with fellow professionals and enthusiasts in the f
 
 ## News and Updates
 
-- 📰 **[Date]:** [News Headline or Brief Description]  
+- 📰 **[11-21-2023]:** [Our Paper got Accepted at the I Conference,2024]  
   [Additional information or a link to more details](Link_to_More_Details)
 
 - 🎤 **[Date]:** [News Headline or Brief Description]  
   [Additional information or a link to more details](Link_to_More_Details)
-
-- 🚀 **[Date]:** [News Headline or Brief Description]  
-  [Additional information or a link to more details](Link_to_More_Details)
-
-- 💡 **[Date]:** [News Headline or Brief Description]  
-  [Additional information or a link to more details](Link_to_More_Details)
-
 
 ---
 
