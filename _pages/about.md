@@ -21,9 +21,9 @@ I am Rohan Charudatt Salvi, an aspiring NLP researcher and a recent master's gra
 
 My career trajectory is firmly anchored in advancing the field of NLP. I want to pursue a Ph.D. program, to create NLP-based tools that not only advance scientific understanding but also have tangible impacts on society. My three primary research interests in NLP are:
 
-- (a) Information extraction: How can we extract meaningful information from text in domains such as medicine and law, which require models to possess domain knowledge and contextual understanding?
-- (b) Conversational Agents & Question Answering: How can we create better open domain and goal-oriented dialogue models that are diverse and grounded in information? How can dialogue systems be enabled to work with dynamic knowledge bases and better understand the contexts of dialogues and questions?
-- (c) Bias, Fairness, and Evaluation of NLP Models: How can we develop socially grounded and task/domain-specific frameworks for a holistic evaluation of biases, fairness, and performance in NLP models?
+- Information extraction: How can we extract meaningful information from text in domains such as medicine and law, which require models to possess domain knowledge and contextual understanding?
+- Conversational Agents & Question Answering: How can we create better open domain and goal-oriented dialogue models that are diverse and grounded in information? How can dialogue systems be enabled to work with dynamic knowledge bases and better understand the contexts of dialogues and questions?
+- Bias, Fairness, and Evaluation of NLP Models: How can we develop socially grounded and task/domain-specific frameworks for a holistic evaluation of biases, fairness, and performance in NLP models?
 
 ## Academic Background 📚
 From my formative years at VNIT, Nagpur to my recent academic accomplishments at UIUC, my journey has been a consistent pursuit of knowledge and innovation in technology. My diverse work experiences, ranging from research internships to engineering roles, have seen me address complex challenges in NLP and develop data-driven solutions. This rich tapestry of experiences has equipped me with not only a strong technical foundation but also a versatile problem-solving approach, making me well-prepared for the rigorous demands of a Ph.D. program. 
