@@ -15,16 +15,19 @@ redirect_from:
 👩‍🏫 I am currently working with Prof. Catherine Blake on the use of LLM for precision medicine and Prof. Nigel Bosch on social bias in LLM
 
 ## Introduction
-I am an aspiring researcher passionate about harnessing the power of human-AI collaborative natural language processing models for social good. My skills encompass a range of technologies including C++, Python, JAVA, Hadoop, Natural Language Processing, Machine Learning algorithms, and Data Structures.
+I am Rohan Charudatt Salvi, an aspiring NLP researcher and a recent master's graduate from the University of Illinois Urbana-Champaign. My passion for Natural Language Processing (NLP) drives my research and professional pursuits. Equipped with a strong foundation in programming languages such as Python, R, C++, and topics such as Data Structures and Algorithms. I have also developed a growing skillset in fields including Natural Language Processing, Deep Learning, and Computer Vision.
 
-## Professional Focus 🔍
-I want to pursue a Ph.D. program, focusing on the intricate relationship between human behavioral alignment and language models, and their influence on social decision-making. I believe that understanding this dynamic is key to developing AI technologies that can positively impact our society.
+## Personal & Professional Mission 🌐
 
-## Personal Mission 🌐
-Driven by a commitment to social betterment, I aim to contribute to the field by developing AI models that not only understand but also empathize with human linguistic nuances. I envision a future where technology and humanity collaborate seamlessly to address complex social challenges.
+My career trajectory is firmly anchored in advancing the field of NLP. I want to pursue a Ph.D. program, to create NLP-based tools that not only advance scientific understanding but also have tangible impacts on society. My three primary research interests in NLP are:
+
+- (a) Information extraction: How can we extract meaningful information from text in domains such as medicine and law, which require models to possess domain knowledge and contextual understanding?
+- (b) Conversational Agents & Question Answering: How can we create better open domain and goal-oriented dialogue models that are diverse and grounded in information? How can dialogue systems be enabled to work with dynamic knowledge bases and better understand the contexts of dialogues and questions?
+- (c) Bias, Fairness, and Evaluation of NLP Models: How can we develop socially grounded and task/domain-specific frameworks for a holistic evaluation of biases, fairness, and performance in NLP models?
 
 ## Academic Background 📚
-I completed my Master’s degree at the University of Illinois Urbana Champaign, where I delved deep into computational social science. My time there was marked by several exciting projects, particularly in enhancing online mental health platforms through advanced language processing techniques. These experiences have provided me with a robust foundation in computational methods and a comprehensive understanding of popular language processing algorithms.
+From my formative years at VNIT, Nagpur to my recent academic accomplishments at UIUC, my journey has been a consistent pursuit of knowledge and innovation in technology. My diverse work experiences, ranging from research internships to engineering roles, have seen me address complex challenges in NLP and develop data-driven solutions. This rich tapestry of experiences has equipped me with not only a strong technical foundation but also a versatile problem-solving approach, making me well-prepared for the rigorous demands of a Ph.D. program. 
+
 
 ## Connect With Me 🤝
 I’m always eager to connect with fellow professionals and enthusiasts in the field. Feel free to reach out for discussions, collaborations, or just a friendly chat about the latest in AI and language processing.
