@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rohan Salvi's Homepage"
+title                    : "Rohan's Homepage"
 title_separator          : "-"
 name                     : &name "Rohan Charudatt Salvi"
 description              : &description "personal description"
