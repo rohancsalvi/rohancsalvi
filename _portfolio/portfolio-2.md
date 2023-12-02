@@ -1,6 +1,6 @@
 ---
 title: "Robust framework for measuring and mitigating stereotypical biases in LLM"
-excerpt: "Understanding stereotypes perception in LLMs and based on it developing effective framework to measure and mitigate biases<br/><img src='/images/robot_society.png'>"
+excerpt: "Understanding stereotypes perception in LLMs and based on it developing effective framework to measure and mitigate biases<br/><img src='/images/robot_society_small.png'>"
 collection: portfolio
 ---
 
