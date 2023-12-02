@@ -1,6 +1,6 @@
 ---
 title: "Large Language Models for Precision Medicine"
-excerpt: "Utilizing LLMs to extract granular information and relations from randomized clinical trials<br/><img src='/images/robot_medical.png'style=" width: 250px;"/>"
+excerpt: "Utilizing LLMs to extract granular information and relations from randomized clinical trials<br/><img src='/images/robot_medical.png' style= width: 250px;/>"
 collection: portfolio
 ---
 
