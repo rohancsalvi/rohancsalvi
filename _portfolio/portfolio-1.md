@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Large Language Models for Precision Medicine"
+excerpt: "Utilizing LLMs to extract granular information and relations from randomized clinical trials<br/><img src='/images/robot_medical.png'>"
 collection: portfolio
 ---
 
