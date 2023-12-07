@@ -18,27 +18,23 @@ redirect_from:
 ## Introduction
 <img src="/images/ncsa_talk.jpg" alt="Giving Talk NCSA student Conference" style=" float: right; width: 200px;"/>
 I am Rohan Charudatt Salvi, an aspiring NLP researcher and a recent master's graduate from the University of Illinois Urbana-Champaign. My passion for Natural Language Processing (NLP) drives my research and professional pursuits. 
-Equipped with a strong foundation in programming languages such as Python, R, C++, and topics such as Data Structures and Algorithms. I have also developed a growing skillset in fields including Natural Language Processing, Deep Learning, and Computer Vision.
 
+Equipped with a strong foundation in programming languages such as Python, R, C++ and topics such as Data Structures and Algorithms. I have also developed a growing skillset in Natural Language Processing, Deep Learning, and Computer Vision.
 
 ## Personal & Professional Mission 🌐
 
-My career trajectory is firmly anchored in advancing the field of NLP. I want to pursue a Ph.D. program, to create NLP-based tools that not only advance scientific understanding but also have tangible impacts on society. My three primary research interests in NLP are:
-
-- Information extraction: How can we extract meaningful information from text in domains such as medicine and law, which require models to possess domain knowledge and contextual understanding?
-- Conversational Agents & Question Answering: How can we create better open domain and goal-oriented dialogue models that are diverse and grounded in information? How can dialogue systems be enabled to work with dynamic knowledge bases and better understand the contexts of dialogues and questions?
-- Bias, Fairness, and Evaluation of NLP Models: How can we develop socially grounded and task/domain-specific frameworks for a holistic evaluation of biases, fairness, and performance in NLP models?
+My research ultimately bridges the gap between technological innovation and societal needs, ensuring our advancements meet people's requirements and are as inclusive as they are groundbreaking. I explore how we can employ information extraction and conversational agents to enhance access to meaningful information across domains. While developing models for such real-world applications, I am also keen to understand these models from a societal viewpoint, assessing their biases and finding ways to ensure fairness through equitability and reliability. 
 
 ## Academic Background 📚
-From my formative years at VNIT, Nagpur to my recent academic accomplishments at UIUC, my journey has been a consistent pursuit of knowledge and innovation in technology. My diverse work experiences, ranging from research internships to engineering roles, have seen me address complex challenges in NLP and develop data-driven solutions. This rich tapestry of experiences has equipped me with not only a strong technical foundation but also a versatile problem-solving approach, making me well-prepared for the rigorous demands of a Ph.D. program. 
+From my formative years at VNIT, Nagpur, to my recent academic accomplishments at UIUC, my journey has been a consistent pursuit of knowledge and innovation in technology. My diverse work experiences, ranging from research internships to engineering roles, have seen me address complex challenges in NLP and develop data-driven solutions. This wide array of experiences has equipped me with a strong technical foundation and a versatile problem-solving approach, making me well-prepared for the rigorous demands of a Ph.D. program. 
 
 
 ## Connect With Me 🤝
-I’m always eager to connect with fellow professionals and enthusiasts in the field. Feel free to reach out for discussions, collaborations, or just a friendly chat about the latest in AI and language processing.
+I’m always eager to connect with fellow professionals and enthusiasts. Feel free to reach out for discussions, collaborations, or just a friendly chat about the latest in AI and language processing.
 
 ## News and Updates
 
-- 🎉 **[11-21-2023]:** Our Paper "PrivacyChat: Utilizing Conversational Language Model for Fine-Grained Information Extraction over Privacy Policies" got accepted at the IConference,2024
+- 🎉 **[11-21-2023]:** Our Paper "PrivacyChat: Utilizing Conversational Language Model for Fine-Grained Information Extraction over Privacy Policies" was accepted at the IConference,2024
 
 ---
 
