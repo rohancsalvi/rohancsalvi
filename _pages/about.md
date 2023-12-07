@@ -16,7 +16,7 @@ redirect_from:
 👩‍🏫 I am currently working with Prof. Catherine Blake on the use of LLM for precision medicine and Prof. Nigel Bosch on social bias in LLM
 
 ## Introduction
-<img src="/images/ncsa_talk.jpg" alt="Giving Talk NCSA student Conference" style=" float: right; width: 200px;"/>
+<img src="/images/ncsa_talk.jpg" alt="Giving Talk NCSA student Conference" style=" float: right; width: 250px;"/>
 I am Rohan Charudatt Salvi, an aspiring NLP researcher and a recent master's graduate from the University of Illinois Urbana-Champaign. My passion for Natural Language Processing (NLP) drives my research and professional pursuits. 
 Equipped with a strong foundation in programming languages such as Python, R, C++, and topics such as Data Structures and Algorithms. I have also developed a growing skillset in fields including Natural Language Processing, Deep Learning, and Computer Vision.
 
