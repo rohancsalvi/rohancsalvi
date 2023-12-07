@@ -11,15 +11,15 @@ redirect_from:
 🧑‍💻 I am a graduate research assistant at UIUC 
 <img src="/images/uiuc_image.jpg" alt="UIUC Convocation" style=" float: right; width: 250px;"/>
 
-🔬 My research interest is NLP
+🔬 My research interest is in Natural Language Processing (NLP)
 
 👩‍🏫 I am currently working with Prof. Catherine Blake on the use of LLM for precision medicine and Prof. Nigel Bosch on social bias in LLM
 
 ## Introduction
 <img src="/images/ncsa_talk.jpg" alt="Giving Talk NCSA student Conference" style=" float: right; width: 200px;"/>
-I am Rohan Charudatt Salvi, an aspiring NLP researcher and a recent master's graduate from the University of Illinois Urbana-Champaign. My passion for Natural Language Processing (NLP) drives my research and professional pursuits. 
+I am Rohan Charudatt Salvi, an aspiring NLP researcher and a recent master's graduate from the University of Illinois Urbana-Champaign. My passion for NLP drives my research and professional pursuits. 
 
-Equipped with a strong foundation in programming languages such as Python, R, C++ and topics such as Data Structures and Algorithms. I have also developed a growing skillset in Natural Language Processing, Deep Learning, and Computer Vision.
+Equipped with a strong foundation in programming languages such as Python, R, C++ and topics such as Data Structures and Algorithms. I have also developed a growing skillset in NLP, Deep Learning, and Computer Vision.
 
 ## Personal & Professional Mission 🌐
 
