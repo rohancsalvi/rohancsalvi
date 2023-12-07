@@ -38,11 +38,7 @@ I’m always eager to connect with fellow professionals and enthusiasts in the f
 
 ## News and Updates
 
-- 📰 **[11-21-2023]:** [Our Paper got Accepted at the I Conference,2024]  
-  [Additional information or a link to more details](Link_to_More_Details)
-
-- 🎤 **[Date]:** [News Headline or Brief Description]  
-  [Additional information or a link to more details](Link_to_More_Details)
+- 🎉 **[11-21-2023]:** Our Paper "PrivacyChat: Utilizing Conversational Language Model for Fine-Grained Information Extraction over Privacy Policies" got accepted at the IConference,2024
 
 ---
 
