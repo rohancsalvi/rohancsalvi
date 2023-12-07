@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 🧑‍💻 I am a graduate research assistant at UIUC 
-<img src="/images/robot_medical.png" alt="Illustration of using NLP to assist doctors" style=" float: right; width: 200px;"/>
+<img src="/images/uiuc_image.jpg" alt="UIUC Convocation" style=" float: right; width: 200px;"/>
 
 🔬 My research interest is NLP
 
